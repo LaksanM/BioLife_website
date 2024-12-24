@@ -1,0 +1,24 @@
+.navbar{
+    background-color: white;
+    box-shadow: 0 7px 7px 0 rgba(0,0,0,0.81);
+}
+
+.navbar{
+    background-color: white;
+    box-shadow: 0 7px 7px 0 rgba(0,0,0,0.81);
+}
+
+.navbar-brand img{
+    height: 70px;
+}
+.offcanvas-title span img{
+    height: 50px;
+}
+.offcanvas-title{
+    text-align: center;
+    align-self: center;
+}
+
+.offcanvas-body form button.btnLogin{
+    display: none;
+}

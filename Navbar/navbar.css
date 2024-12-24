@@ -1,0 +1,24 @@
+.navbar{
+    background-color: white;
+    box-shadow: 0px -1px 50px 0px rgba(0,0,0,0.81);
+    position: relative;
+    z-index: 999;
+}
+
+.navbar-brand img{
+    height: 50px;
+}
+.offcanvas-title span img{
+    height: 50px;
+}
+.offcanvas-title{
+    text-align: center;
+    align-self: center;
+}
+#iconPanierIMG{
+    height: 40px;
+    top: 25px;
+    position: absolute;
+    right: 90px;
+}
+
